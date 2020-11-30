@@ -2,6 +2,14 @@
 
 A new Flutter application.
 
+# description
+
+plugins used:
+Tflite & image_picker. (version shown in pubspec.yaml)
+Websites source:
+https://www.kaggle.com/tongpython/cat-and-dog/data - Provides images to train and create model in Teachable Machine
+https://teachablemachine.withgoogle.com/train/image - Platform that uses images to train and create a model to be downloaded and used in flutter
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
